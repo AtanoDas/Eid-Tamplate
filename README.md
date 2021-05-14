@@ -1,1 +1,1 @@
-# Eid-Tamplate
+# Eid-Template
